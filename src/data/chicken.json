@@ -1,0 +1,499 @@
+{
+    "Chicken" :[
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fcea4075-0ed2-23c1-2b3f-1cddcbd1d11f/original/Chicken-Breast-Boneless-(3-4-Pieces)-Hero-Shot_(1).jpg?format=webp",
+            "item" : "Chicken Breats Boneless",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:3-4pcs",
+            "kg":"450 grams",
+            "serves":" serves:4-5",
+            "mrp":"MRP: ₹269",
+            "id":"1"
+            
+            
+
+        },
+
+        {
+            "img" : "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ffd4144f-25a7-6f26-2d90-9a9db0332dda/original/Chicken_Thigh_Boneless_Hero_Shot.jpg?format=webp",
+            "item" : "Chicken Thigh Boneless",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:3-4pcs",
+            "kg":"450 grams",
+            "serves":" serves:4-5",
+            "mrp":"MRP: ₹269",
+            "id":"2"
+            
+            
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/be46f1fa-1aa8-81ea-7a47-11260815a274/original/Chicken_MiniBites_Boneless_Hero_Shot.jpg?format=webp",
+            "item" : "Chicken Boneless - Mini Bites",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:20pcs",
+            "kg":"250 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹269",
+            "id":"3"
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e9023d4-e2f7-2fe6-c68f-75014733ff7e/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg?format=webp",
+            "item" : "Chicken Mince - Keema",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces: N/A",
+            "kg":"250 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹299",
+            "id":"4"
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ca5adea0-fcd4-9787-416a-7b95b3a670b4/original/ChickenLC.jpg?format=webp",
+            "item" : "Chicken Curry Cut - Large",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:8 to 10pcs",
+            "kg":"500 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹179",
+            "id":"5"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7c01addb-3cff-9c0a-fa68-d4d6d41de5f5/original/large.jpg?format=webp",
+            "item" : "Chicken Curry - (Large Pack)",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:20pcs",
+            "kg":"1000 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹345",
+            "id":"6"
+
+        },
+
+        {
+           "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/68e9d547-67bb-82da-5fbf-9663fe61c64c/original/Chicken_Gizzard_Hero_Shotjpg.jpg?format=webp",
+            "item" : "Chicken Gizzard",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:20pcs",
+            "kg":"1000 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹71",
+            "id":"7"
+
+        },
+
+        {
+
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a10fc624-df33-07d9-c1e2-be515a700136/original/Chicken_Liver_Hero_Shot.jpg?format=webp",
+            "item" : "Chicken Gizzard",
+            "description": "Boneless fillets:special nakhre for special cut.",
+            "pieces": "No.of.pieces:20pcs",
+            "kg":"1000 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹71",
+            "id":"8"
+
+        }
+
+        
+    ],
+
+
+    
+
+    
+
+
+
+    "mutton":[
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/12454bc9-ac60-f243-2d93-3e6d7bd31359/original/Goat-Mince_Keema--Hero-Shot.jpg?format=webp",
+            "item" : "Goat mince/Keema",
+            "description": "Perfectly ground Meat:special nakhre for special cut.",
+            "pieces": "No.of.pieces: N/A",
+            "kg":"450 grams",
+            "serves":" serves:4-5",
+            "mrp":"MRP: ₹537",
+            "id":"1"
+            
+            
+
+        },
+
+        {
+            "img" : "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2092e133-83e2-a0e7-ee98-9726c9779293/original/Premium-goat-curry-cut_(1).jpg?format=webp",
+            "item" : "Goat Curry Cut",
+            "description": "Perfectly ground Meat:special nakhre for special cut.",
+            "pieces": "No.of.pieces:20-30pcs",
+            "kg":"500 grams",
+            "serves":" serves:4-5",
+            "mrp":"MRP: ₹610",
+            "id":"2"
+            
+            
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6f04a13b-9133-7dbe-f7b8-99a7f9c11606/original/Goat-Ribs-and-Chops--Hero-Shot.jpg?format=webp",
+            "item" : "Mutton Ribs",
+            "description": "Mutton Ribs,Chops are mainly cut from the rack of the Goat.",
+            "pieces": "No.of.pieces:8 to 10pcs",
+            "kg":"500 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹269",
+            "id":"3"
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/b8b2cecd-bf58-0d84-76f9-7d2cd335fdca/original/1601906977.7524--2020-10-0519_39_37--738.jpeg?format=webp",
+            "item" : "Mutton-Brain",
+            "description": "Fresh ",
+            "pieces": "No.of.pieces: N/A",
+            "kg":"250 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹299",
+            "id":"4"
+
+        }
+
+       
+
+        
+    ],
+
+    "fish":[
+
+        {
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_5965d990c954c/1/prod_display_image/1634554146.2986--2021-10-1816:19:06--1818?format=webp",
+            "item" : "Anchovy - Whole, Cleaned",
+            "description": "whole Anchovies are thoroughly cleaned and gutted.",
+            "pieces": "No.of.pieces:25-40pcs",
+            "kg":"500 grams",
+            "serves":" serves:4-5",
+            "mrp":"MRP: ₹610",
+            "id":"1"
+
+        },
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6e1530f9-d94b-610e-c110-31982aa1c8c5/original/p2_tile_images-33_(1).jpg?format=webp",
+            "item" : "Black Pomfret Medium ",
+            "description": "pomfret are thoroughly cleaned and gutted.",
+            "pieces": "No.of.pieces:5-7pcs",
+            "kg":"500 grams",
+            "serves":" serves:3",
+            "mrp":"MRP: ₹735",
+            "id":"2"
+        },
+
+        {
+
+           "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/afdd1663-a680-873f-9114-c38eeaeab5cd/original/p0_tile_images-32_(1).jpg?format=webp",
+            "item" : "Seer (Vanjaram/Surmai) Large",
+            "description": "vanjaram are thoroughly cleaned and gutted.",
+            "pieces": "No.of.pieces:4pcs",
+            "kg":"500 grams",
+            "serves":" serves:2",
+            "mrp":"MRP: ₹1059",
+            "id":"3"
+
+        },
+
+        {
+
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2fba9800-ee8b-2ae1-038a-a67d14ff6e64/original/p2_tile_images_6th_folder-02.jpg?format=webp",
+            "item" : "Sardine- Whole, Cleaned",
+            "description": "The fresh Sardine Fish from Licious is available whole and cleaned.",
+            "pieces": "No.of.pieces:12-18pcs",
+            "kg":"500 grams",
+            "serves":" serves:2",
+            "mrp":"MRP: ₹284",
+            "id":"4"
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5d1de9da-d5d2-e3ab-56b1-db920d1350a2/original/p2_tile_images_6th_folder-03.jpg?format=webp",
+            "item" : "Catla (Theppu) Large ",
+            "description": "Our large size Seer/vanjaram are thoroughly cleaned and gutted.",
+            "pieces": "No.of.pieces:4-6pcs",
+            "kg":"500 grams",
+            "serves":" serves:3-4",
+            "mrp":"MRP: ₹384",
+            "id":"5"
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/926c818b-7add-d0f4-9290-50ebbb690d8e/original/p2_tile_images_6th_folder-13_(1).jpg?format=webp",
+            "item" : " white Pomfret and cleaned",
+            "description": "Our whole size white pomfret are thoroughly cleaned and gutted.",
+            "pieces": "No.of.pieces:4-6pcs",
+            "kg":"500 grams",
+            "serves":" serves:3-4",
+            "mrp":"MRP: ₹384",
+            "id":"6"
+        }
+    ],
+
+    "readytocook":[
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9d671a73-13fb-f476-68e9-4582e1d3d91a/original/Indian_marinades-03.jpg?format=webp",
+            "item" : "Fish Tawa Fry (Rohu) | Ready to Cook",
+            "description": "Slice of Rohu marinated in indian spices.",
+            "pieces": "No.of.pieces:4-6pcs",
+            "kg":"500 grams",
+            "serves":" serves:3",
+            "mrp":"MRP: ₹242",
+            "id":"1"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/27be20c0-daa2-9a14-8b48-44450c1049c4/original/PUJO_TILE_IMAGES_AND_COOKING_METHOD_AND_RTB-10.jpg?format=webp",
+            "item" : "Kosha Mangsho | Ready to Cook",
+            "description": "pieces of Mutton  marinated in indian spices.",
+            "pieces": "No.of.pieces:4-6pcs",
+            "kg":"350 grams",
+            "serves":" serves:2",
+            "mrp":"MRP: ₹499",
+            "id":"2"
+        },
+
+        {
+        
+                "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/27be20c0-daa2-9a14-8b48-44450c1049c4/original/PUJO_TILE_IMAGES_AND_COOKING_METHOD_AND_RTB-10.jpg?format=webp",
+                "item" : "Kosha Mangsho | Ready to Cook",
+                "description": "pieces of Mutton  marinated in indian spices.",
+                "pieces": "No.of.pieces:4-6pcs",
+                "kg":"350 grams",
+                "serves":" serves:2",
+                "mrp":"MRP: ₹499",
+                "id":"3"
+            
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6be8c5e9-8946-8b76-5340-991d476cd255/original/rtc_july_6images-13.jpg?format=webp",
+            "item" : "Smoked Chicken Wings | Ready To Cook",
+            "description": "pieces of Chicken  marinated in indian spices.",
+            "pieces": "No.of.pieces:8-10pcs",
+            "kg":"300 grams",
+            "serves":" serves:3",
+            "mrp":"MRP: ₹169",
+            "id":"4"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7a72cb59-4ca0-87b6-7fa1-d8f925f6cdbc/original/Purani-Dilli-ki-Mutton-Seekh-Kebab-.jpg?format=webp",
+            "item" : "Purani Dilli ki Mutton Seekh Kebab | Ready To Cook",
+            "description": "Mutton Seekh Kebabs are a blend of the minced meat from fresh, authentic spices.",
+            "pieces": "No.of.pieces:4pcs",
+            "kg":"300 grams",
+            "mrp":"MRP: ₹369",
+            "id":"5"
+        },
+
+        {
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5pzo5x/1/prod_display_image/1634616842.1144--2021-10-1909:44:02--1818",
+            "item" : "Assorted Kebab Platter | Ready to Cook",
+            "description": "Tender & juicy - our platters of kebba is perfect for parties",
+            "pieces": "No.of.pieces:4-6pcs",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹887",
+            "id":"6"
+        },
+
+        {
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5inh87/1/prod_display_image/1622089748.3833--2021-05-2709:59:08--472",
+            "item" : "Assorted Kebab Platter | Ready to Cook",
+            "description": "Tender & juicy - our platters of kebba is perfect for parties",
+            "pieces": "No.of.pieces:6-8pcs",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹776",
+            "id":"7"
+
+        }
+    ],
+
+    "prawns":[
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/66e96bfe-5abc-2cd8-18a7-01a9eceb2bfa/original/WhatsApp_Image_2022-04-13_at_2.16.31_PM.jpeg?format=webp",
+            "item" : "Freshwater/ White Prawns- Cleaned & Deveined",
+            "description": "special nakhre for freswater prawns ",
+            "pieces": "No.of.pieces:16-36pcs",
+            "kg":"250 grams",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹356",
+            "id":"1"
+
+
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/66e96bfe-5abc-2cd8-18a7-01a9eceb2bfa/original/WhatsApp_Image_2022-04-13_at_2.16.31_PM.jpeg?format=webp",
+            "item" : "Freshwater/ White Prawns- Cleaned & Deveined",
+            "description": "special nakhre for freswater prawns ",
+            "pieces": "No.of.pieces:36-50pcs",
+            "kg":"550 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹637",
+            "id":"2"
+        },
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5af4ae39-7629-bc5f-65cc-78e1239147c5/original/1624645711.jpg?format=webp",
+            "item" : "Tiger Prawns(Extra Large) - Cleaned & Deviened, With Tail",
+            "description": "special nakhre for freswater prawns ",
+            "pieces": "No.of.pieces:16-36pcs",
+            "kg":"250 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹637",
+            "id":"3"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/85d6826b-6f2e-259c-358d-86844cf5aad5/original/1626790290.jpg?format=webp",
+            "item" : "Tiger Prawns(Large) - Cleaned & Deviened, With Tail",
+            "description": "special nakhre for freswater prawns ",
+            "pieces": "No.of.pieces:16-36pcs",
+            "kg":"250 grams",
+            "serves":" serves:4",
+            "mrp":"MRP: ₹637",
+            "id":"4"
+        }
+    ],
+
+    "spreads":[
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/faa6ff18-1108-6acf-4885-aa0fdb5e13ec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp",
+            "item" : "Chunky Shawarma Chicken Spread",
+            "description": "A creamy base with roasted chicken ",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"250 grams",
+            "serves":" serves:2",
+            "mrp":"MRP: ₹237",
+            "id":"1"
+
+        },
+
+        {
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgb2jhb/1/prod_display_image/1634375004.4382--2021-10-1614:33:24--905?format=webp",
+            "item" : "Chunky Prawn Spread",
+            "description": "A creamy base with roasted Prawn ",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"250 grams",
+            "serves":" serves:2",
+            "mrp":"MRP: ₹377",
+            "id":"2"
+        },
+
+        {
+
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgazp3h/1/prod_display_image/1634636886.5159--2021-10-1915:18:06--1818?format=webp",
+            "item" : "Chunky Tomato Chicken Spread",
+            "description": "A creamy Tomato base with Fried Chicken ",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"250 grams",
+            "serves":" serves:1",
+            "mrp":"MRP: ₹277",
+            "id":"3"
+        },
+
+        {
+
+            "img":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1puko17mted/1/prod_display_image/1636910360.9167--2021-11-1422:49:20--1818",
+            "item" : "Chunky Continental Egg Spread",
+            "description": "A creamy Mayo Eggs spread ",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"250 grams",
+            "serves":" serves:1",
+            "mrp":"MRP: ₹197",
+            "id":"4"
+        }
+    ],
+
+    "eggs":[
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a917c576-c350-375a-afad-4882c7fd85a8/original/Classic-Eggs---Pack-of-12-Hero-Shot.jpg?format=webp",
+            "item" : "classic eggs - pack of 12",
+            "description": "White shell eggs laid by healthy hens. ",
+            "pieces": "No.of.pieces:12pcs",
+            "mrp":"MRP: ₹137",
+            "id":"1"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5474b164-29a4-6ed9-ce56-638a7fc23485/original/Brown-Eggs---Pack-Of-12-Hero-Shot.jpg?format=webp",
+            "item" : "country eggs - pack of 12",
+            "description": "brown shell eggs laid by healthy hens. ",
+            "pieces": "No.of.pieces:12pcs",
+            "mrp":"MRP: ₹237",
+            "id":"2"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/67bd4ba7-c0b6-cdf0-f0ca-11167f247ed4/original/1607935620.1251--2020-12-1414_17_00--738.jpeg?format=webp",
+            "item" : "Quail eggs - pack of 12",
+            "description": "Brown spots & Speckles ",
+            "pieces": "No.of.pieces:12pcs",
+            "mrp":"MRP: ₹97",
+            "id":"3"
+
+        },
+
+        {
+
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c128220a-8ac2-2407-13ad-12e90cd8a5ed/original/Hero-Shotjpg.jpg?format=webp",
+            "item" : "Duck eggs - pack of 6",
+            "description": "Brown spots & Speckles ",
+            "pieces": "No.of.pieces:6pcs",
+            "mrp":"MRP: ₹157",
+            "id":"4"
+
+
+        }
+    ],
+
+    "biriyani":[
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/92457f9b-9683-352e-22d1-166514f60c26/original/250gms_(2).jpg?format=webp",
+            "item" : "Hyderabadi Chicken Biryani | Meat & Masala Mix",
+            "description": "Aromatic,Spicy,Rich and Meaty",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"500 grams",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹356",
+            "id":"1"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b0c9d487-f007-28e2-94a5-44498a258110/original/250gms.jpg?format=webp",
+            "item" : "Hyderabadi Mutton Biryani | Meat & Masala Mix",
+            "description": "Aromatic,Spicy,Rich and Meaty",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"500 grams",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹656",
+            "id":"2"
+        },
+
+        {
+            "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/554185e9-185d-3c66-e059-5459e8a0741a/original/Kolkata-CB-500-cooked_(1).jpg?format=webp",
+            "item" : "Kolkata Chicken Biryani | Meat & Masala Mix",
+            "description": "Aromatic,Spicy,Rich and Meaty",
+            "pieces": "No.of.pieces:1pcs",
+            "kg":"500 grams",
+            "serves":" serves:2-3",
+            "mrp":"MRP: ₹396",
+            "id":"3"
+        }
+    ]
+}
